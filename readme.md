@@ -41,8 +41,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
+Bezig met het productpagina. Niet zo heel ver.
 
--screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
